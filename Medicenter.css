@@ -44,7 +44,7 @@ nav a:hover {
 #banner {
   display: flex;
   justify-content: center;
-  background-image: url("/HTML&CSS/Projeto_MedCent/Imagembanner.jpg");
+  background-image: url("Imagembanner.jpg");
   background-position: center;
   background-size: cover;
   height: 670px;
